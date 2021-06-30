@@ -9,16 +9,15 @@ header {
 }
 
 #api_status {
-    align-content: right;
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    margin-top: auto;
+    margin-top: 13px;
     margin-bottom: auto;
     margin-right: 30px;
     background-color: #cccccc;
 }
 
-div.available{
+#api_status.available {
     background-color: #ff545f;
 }
