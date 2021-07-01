@@ -107,4 +107,5 @@ button:hover {
     white-space: nowrap;
     overflow: hidden;
     height: 16px;
+    width: 100%;
 }
